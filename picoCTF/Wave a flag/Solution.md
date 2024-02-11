@@ -1,4 +1,4 @@
-# Obedient Cat
+# Wave a flag
 - Tags: picoCTF 2021, General Skills
 - Author: SYREAL
 - Description: Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
