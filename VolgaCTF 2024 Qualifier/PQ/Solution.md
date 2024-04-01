@@ -4,6 +4,7 @@
 
 # Solution
 - To solve this question you need to download the two files and open them. One contains a script, another contains an output after encryption process.
+- This is a RSA encryption. RSA is a type of asymmetric encryption, which uses two different but linked keys. In RSA cryptography, both the public and the private keys can encrypt a message. The opposite key from the one used to encrypt a message is used to decrypt it.
 
 ```
 from secret import flag
